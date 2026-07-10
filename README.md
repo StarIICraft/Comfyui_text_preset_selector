@@ -1,3 +1,5 @@
+<img width="1717" height="1632" alt="image" src="https://github.com/user-attachments/assets/aac99139-557c-478a-bd49-66bf5c2b3076" />
+
 插件介绍：
 •不是复杂的提示词管理器
 •而是一个轻量、稳定、易维护的本地txt文本预设选择节点
@@ -45,5 +47,3 @@ comfyui_textpreset_selector/
    ├─ 01_提示词润色.txt
    ├─ 02_图像编辑提示词.txt
    └─ 03_英语增强器.txt
-
-<img width="1717" height="1632" alt="image" src="https://github.com/user-attachments/assets/aac99139-557c-478a-bd49-66bf5c2b3076" />
