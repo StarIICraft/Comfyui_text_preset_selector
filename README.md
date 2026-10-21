@@ -1,6 +1,3 @@
-**README_EN.md**
-
-```markdown
 # ComfyUI Text Preset Nodes
 
 A set of ComfyUI nodes for reading, selecting, and editing text presets. All nodes output a `STRING` that can be connected to nodes requiring text input.
