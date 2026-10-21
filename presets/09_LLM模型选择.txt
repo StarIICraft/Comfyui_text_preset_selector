@@ -1,0 +1,23 @@
+{
+  "Qwen": {
+    "model": "qwen3.5-plus"
+  },
+  "deepseek": {
+    "model": "deepseek-v4.1-flash"
+  },
+  "OpenAI": {
+    "model": "gpt-5.4"
+  },
+  "Google": {
+    "model": "gemini-3.8-flash"
+  },
+  "Zhipu": {
+    "model": "glm-5.2"
+  },
+  "MiniMax": {
+    "model": "MiniMax-M2.7"
+  },
+  "Grok": {
+    "model": "grok-4.6"
+  }
+}

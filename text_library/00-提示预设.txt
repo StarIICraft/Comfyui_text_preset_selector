@@ -1,0 +1,113 @@
+Qwen打光***
+为这张照片重新布光，改为强烈的戏剧化明暗对比效果。根据原图自动分析光源方向、光源高度、光质、色温、高光位置、阴影走向、投影和环境反射，不预设固定打光方向；沿用并强化原图最合理的光线逻辑，使新增光影与原始空间关系一致，避免光源矛盾、双重阴影、异常反光和不自然提亮。
+强烈增强主体的立体感和体积感：受光面形成明亮但不过曝的高光，背光面明显压暗并保留细节，在明暗之间形成清晰自然的交界线。整体呈现高反差、层次分明、电影感的 chiaroscuro 明暗效果。背景适度压暗，保留空间层次，使主体更加突出。
+完整保留主体特征、五官、肤色、发型、表情、姿态、服装、配饰，以及背景物体的位置、结构和材质。保持原图构图、视角、比例、取景、主体大小和位置不变，仅调整光照、阴影、曝光、对比度和整体明暗关系。
+
+Qwen打光英文***
+Relight this photo to create a dramatic, high-contrast chiaroscuro effect. Automatically analyze the original image to determine the light source direction, height, quality, color temperature, highlight placement, shadow direction, cast shadows, and environmental reflections. Do not assume a fixed lighting direction. Preserve and enhance the most plausible lighting logic of the original image, ensuring that the added light and shadows remain consistent with the original spatial relationships. Avoid conflicting light sources, double shadows, abnormal reflections, and unnatural brightening.
+Strongly enhance the subject’s three-dimensionality and sense of volume. Create bright but non-overexposed highlights on illuminated surfaces, while significantly darkening the shadowed surfaces without losing detail. Establish a clear, natural transition between light and shadow. Achieve an overall high-contrast, richly layered, cinematic chiaroscuro effect. Darken the background moderately while preserving spatial depth and dimension, making the subject stand out more prominently.
+Fully preserve the subject’s defining features, facial features, skin tone, hairstyle, expression, pose, clothing, and accessories, as well as the positions, structures, and materials of background objects. Keep the original composition, viewing angle, proportions, framing, subject size, and subject position unchanged. Adjust only the lighting, shadows, exposure, contrast, and overall tonal relationships.
+
+Qwen打光2***
+对图像进行光影重构与强化，在完整保留原有主体造型的前提下，重塑画面中光照与阴影的明暗关系，形成强烈而统一的明暗对比：设定一个明确的主光源方向，使光照方向、亮度层级、高光与阴影完全匹配、完美统一，让主体材质、皮肤、头发、衣物与背景共享同一套光照逻辑，高光落在受光面、阴影沉入背光面，明暗交界清晰而富有体积感，整体呈现强烈的戏剧性明暗对比效果。保持主体的姿态、表情、发型、服装款式与配饰、身体比例完全不变，保持背景所有物体的形状、位置与布局完全不变，保持构图、取景与相机视角完全不变，保持角色原有的材质质感与整体色调不变，仅强化光影照明与阴影的明暗对比关系。
+
+Qwen打光2英文***
+Reconstruct and enhance the lighting and shadows of the image while fully preserving the original subject's appearance. Reshape the interplay of light and shadow across the image to create a strong, cohesive contrast between light and dark. Establish a clearly defined primary light source direction, ensuring that the lighting direction, brightness hierarchy, highlights, and shadows are perfectly aligned and consistent. Apply the same lighting logic to the subject's materials, skin, hair, clothing, and background, with highlights falling on illuminated surfaces and shadows receding into areas facing away from the light. Create a clear, well-defined boundary between light and shadow that conveys a strong sense of volume, achieving an overall dramatic chiaroscuro effect. Keep the subject's pose, facial expression, hairstyle, clothing style, accessories, and body proportions completely unchanged. Preserve the exact shapes, positions, and arrangement of all objects in the background. Keep the composition, framing, and camera angle entirely unchanged. Retain the original material textures and overall color palette of the character, enhancing only the lighting, shadows, and contrast between light and dark.
+
+Klein打光***
+重构并强化图像光影照明和阴影，光和影变成侧光效果。光影完全统一，光照方向、亮度层级、高光与阴影完美匹配。主体与场景实现物理级真实融合，同时完美地保留了图像的原始构图一致性、和色彩调色板
+
+Klein打光英文***
+Reconstruct and enhance the image’s lighting, light-and-shadow interplay, and shadows, transforming them into a side-lighting effect. Ensure complete consistency in the lighting, with the direction of light, brightness hierarchy, highlights, and shadows perfectly aligned. Achieve physically
+
+klein高清修复***
+基于 image_0.png，整张图像经过放大，以惊人的 8K 分辨率渲染，具备超高清的清晰度。所有的模糊、柔化、噪点及压缩伪影均被均衡的清除。所有主体和背景中的精细细节——如皮肤、头发、织物、表面、及环境元素的纹理——均被完美修复、锐化并增强至照片级逼真的质量。最终图像拥有极致的锐利度和高保真度，同时完美保留了 image_0.png 的原始画风、构图一致性、光照和色调得到保留。
+
+Qwen高清修复***
+高清重绘，超清画质，非简单锐化，而是重绘每一个连续像素，变成真实拍摄的8K原始画质
+
+Qwen扩图***
+Outpaint the image: replace the solid Blue areas with a seamless continuation of the scene, keeping the existing picture unchanged.
+
+上下不变，左右扩图，将图片比例修改成16:9比例。
+
+照片精修***
+高质量人像修复，哈苏相机画质，去除面部瑕疵但轻微的保留真实皮肤毛孔和质感，去除伪影和运动模糊，光线柔和自然，增强面部立体感和眼神光，极度写实，细节丰富（发丝、睫毛），保持原图人物特征和构图不变，色调和色彩仅轻微改变，无塑料感，8K分辨率。  
+
+产品精修***
+请将这张产品图片进行商业级精修，去除瑕疵、划痕，光影立体感强烈，材质明暗关系强烈，提升整体质感和高级感，整体亮度提高。放置在纯白色的背景上
+
+换装***
+保持人物面部，动作与背景不变，让图1中角色穿上图2中衣服，动作不要变形
+
+镜头转换***
+将镜头向前移动
+
+将镜头向左移动
+
+将镜头向右移动
+
+将镜头向下移动
+
+将镜头向左旋转45度
+
+将镜头向右旋转45度
+
+将镜头转为俯视
+
+将镜头转为广角镜头
+
+将镜头转为特写镜头
+
+更换背景提示词***
+提取图片中的主体，保持产品的结构颜色材质细节的一致性不变，保持原主体角度和大小，保持原有构图关系，更换背景为:
+一个宁静的、阳光斑驳的水下洞穴。柔和的、散射的光线从上方开口的表面透过晶莹剔透的水流，在光滑的浅色沙子和古老的、覆盖着苔藓的石头废墟上形成舞动的腐蚀性图案。细小的气泡缓缓升起。背景呈现出从水蓝色到深蓝色的平缓渐变，微弱的、缥缈的光束照亮了漂浮的颗粒。这是一种平静而神秘的发现氛围。
+拍摄高级商业广告照片，画质高清，8k，融合主体和背景的光影
+
+获取三视图提示词***
+提取图片中的主体，帮我生成一个从模型正前方垂直于模型平面观察的视图，完全没有透视失真，呈现出一个标准的工程前视图。模型的外形比例和材质颜色都必须与原始图像保持一致，没有形变。为了突出主体，背景必须是纯白色。
+
+提取图片中的主体，帮我生成一个从模型后方观察到的视图，向左偏转45度，完全没有透视失真，并提供清晰的斜后视图。模型的外形比例和材质颜色都必须与原始图像保持一致，没有形变。为了突出主体，背景必须是纯白色。
+
+参考图1和图2，帮我生成一个从模型正侧方垂直于模型平面观察的视图，完全没有透视失真，呈现出一个标准的工程侧视图。模型的外形比例和材质颜色都必须与原始图像保持一致，没有形变。为了突出主体，背景必须是纯白色。
+
+提取图片中的主体，帮我生成一个从模型正后方垂直于模型平面观察的视图，完全没有透视失真，呈现出一个标准的工程后视图。模型的外形比例和材质颜色都必须与原始图像保持一致，没有形变。为了突出主体，背景必须是纯白色。
+
+合成融图***
+保持主体位置和大小不变，调整背景的透视角度以与主题的消失点对齐。主体与背景之间无缝融合。
+
+多图合成合照***
+将图1、图2、图3、图4、图5、图6的5个人物在图6的的场景摆拍照动作，几个人在马路中间进行合影，生成全新的5人场景图。王家卫电影风格，所有人统一光影风格
+让所有的7个人在图1的场景中合影，后排站4人，前排蹲3人，两男士分别站图1两位女生两侧
+
+透明图像***
+This is an RGBA image with transparency.
+（提示词）
+The image has alpha channel and the background is transparent.
+
+矫正颜色修复图像***
+把偏色校正为正常色温并高清重绘
+
+证件照精修***
+证件照精修，冷白皮，五官立体，祛痘，专业影楼灯光，淡妆，增加发量与头发层次，V领黑色西装，豆沙红背景。
+
+老照片修复***
+老照片修复，一比一还原，中灰色背景
+
+卡通转真人***
+将此风格化图像转换为同一场景的。保留主体、姿势、服装、构图、色彩和背景。呈现自然的皮肤、材质、光照和摄影细节。
+
+真人转动漫***
+将此逼真照片转换为同一场景的风格化动漫图像。保留主体、姿势、服装、构图、色彩和背景。呈现动漫的皮肤、材质、光照和细节。
+
+超分辨率修复***
+高清恢复图片，消除像素模糊和色块失真，使插图细节清晰饱满，达到印刷级高清标准，保持图片一致性。
+
+姿态迁移***
+图1的女生保持人物一致性，更改姿势为图2女生的姿态。
+
+换脸***
+把图1的人物脸部，替换为图2人物的脸部样貌，保持图2人物脸部的特征以及一致性
+
+线稿上色***
+保持线稿中人物的一致性，帮我上色，生成动漫插画风格

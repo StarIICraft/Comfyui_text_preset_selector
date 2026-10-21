@@ -1,0 +1,26 @@
+{
+  "gpt1": {
+    "model": "gpt-image-2"
+  },
+  "gpt2": {
+    "model": "gpt-image-2.5"
+  },
+  "gpt3": {
+    "model": "gpt-image-2.5-flare"
+  },
+  "香蕉1": {
+    "model": "gemini-3.1-flash-image"
+  },
+  "香蕉2": {
+    "model": "gemini-nano-banana-2.1"
+  },
+  "香蕉3": {
+    "model": "gemini-3-pro-image"
+  },
+  "Qwen": {
+    "model": "qwen-image-3.0"
+  },
+  "既梦": {
+    "model": "seedream-5.0"
+  }
+}
